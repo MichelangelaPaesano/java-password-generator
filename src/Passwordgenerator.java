@@ -27,8 +27,6 @@ public class Passwordgenerator {
 
         int somma = giorno + mese + anno;
 
-        System.out.println("La tua passaword è: " + nome + "-" +cognome + "-" +colore + "-" +somma);
-
-        
+        System.out.println("La tua passaword è: " + nome + "-" +cognome + "-" +colore + "-" +somma); 
     }
 }
